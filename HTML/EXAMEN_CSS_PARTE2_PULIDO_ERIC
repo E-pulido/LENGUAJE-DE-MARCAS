@@ -1,2 +1,46 @@
-Link:
-file:///C:/Users/epuli/OneDrive/Escritorio/Curr%C3%ADcum%20Figma%20Eric%20Pulido/index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluación para la comprensión de CSS fundamental Eric Pulido</title>
+</head>
+<body>
+  <div>
+    <div style="width: 360px; height: 95px; background-color: rgba(115.60, 80.75, 255, 1);"/>
+      <span><p>ERIC <br/>PULIDO CARNICE</p>
+      </span>
+    </div>
+    <p>
+    <div align="rigt">
+    <img style="width: 72px; height: 107px;" src="foto.PNG"
+    <div/>
+      </p>
+    <p style="width: 72px; height: 13px; font-size: 12px; line-height: 100%; color: rgba(0, 159.08, 209.31, 1);">Experiencia</p>
+    <p style="width: 130px; height: 21px; font-size: 9px; line-height: 100%; color: black;">06/05/2005 - 15/05/2019</p>
+    <p style="width: 130px; height: 8px; font-size: 9px; line-height: 100%; color: rgba(23.95, 0, 171.06, 1);">Col·legi Episcopal de Lleida</p>
+    <p style="width: 130px; height: 8px; font-size: 9px; line-height: 100%; color: rgba(23.95, 0, 171.06, 1);">Dispone del título de la ESO</p>
+    <div style="width: 222px; height: 2px; border-style: solid; border-width: 1px; border-style: solid; border-color: rgba(20.40, 0, 255, 1);"/>
+    <p style="width: 72px; height: 13px; font-size: 12px; line-height: 100%; color: rgba(0, 159.08, 209.31, 1);">Formación</p>
+    <p style="width: 130px; height: 19px; font-size: 9px; line-height: 100%; color: black;">Actual</p>
+    <p style="width: 70px; height: 11px; font-size: 9px; line-height: 100%; color: rgba(23.95, 0, 171.06, 1);">ILERNA, Lleida</p>
+    <p style="width: 209px; height: 21px; font-size: 9px; line-height: 100%; color: black;">- Trabaja como alumno en el ámbito de Sistemas Microinformáticos y Redes (SMX).</p>
+    <div style="width: 222px; height: 2px; border-style: solid; border-width: 1px; border-style: solid; border-color: rgba(20.40, 0, 255, 1);"/>
+    <p style="width: 87px; height: 14px; font-size: 12px; line-height: 100%; color: rgba(0, 159.08, 209.31, 1);">Comunicación</p>
+    <p style="width: 209px; height: 21px; font-size: 9px; line-height: 100%; color: black;">- No tiene mucha capacidad de comunicación, pero mucha de trabajo en equipo.</p>
+    <div style="width: 222px; height: 2px; border-style: solid; border-width: 1px; border-style: solid; border-color: rgba(20.40, 0, 255, 1);"/>
+    <p style="width: 87px; height: 14px; font-size: 12px; line-height: 100%; color: rgba(0, 159.08, 209.31, 1);">Liderazgo</p>
+    <p style="width: 209px; height: 21px; font-size: 9px; line-height: 100%; color: black;">- No tiene ningún grado de liderazgo.</p>
+    <div style="width: 222px; height: 2px; border-style: solid; border-width: 1px; border-style: solid; border-color: rgba(20.40, 0, 255, 1);"/>
+    <p style="width: 118px; height: 15px; font-size: 12px; line-height: 100%; color: rgba(0, 159.08, 209.31, 1);">Carnet de conducir</p>
+    <p style="width: 209px; height: 15px; font-size: 9px; line-height: 100%; color: black;">- No dispone de un carnet de conducir.</p>
+    <div/>
+    <div style="width: 360px; height: 68px; background-color: rgba(115.60, 80.75, 255, 1);"/>
+    <div/>
+    <p style="width: 72px; height: 13px; font-size: 12px; line-height: 100%; color: rgba(1.52, 69.81, 91.37, 1);">Contacto</p>
+    <p style="width: 105px; height: 21px; font-size: 9px; line-height: 100%; color: black;">C/Anselm Charles, 19<br/>Lleida<br/>CP:25005</p>
+    <p style="width: 10x; height: 21px; font-size: 9px; line-height: 100%; color: black;">+34 694 50 46 72</p>
+
+</body>
+</html>
